@@ -9,15 +9,14 @@
 ![Webhooks](https://img.shields.io/badge/Webhooks-6E56CF?style=for-the-badge&logo=webhook&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Hands-on learning repo for building no-code AI agents, automations, and voice agents using **n8n**, built while preparing for a B2B integration & automation-focused internship at Systems Limited (PartnerLinQ).
-
-This repo documents workflows, notes, and projects completed while working through *n8n — AI Agents, AI Automations & AI Voice Agents (No-code!)*.
+Hands-on learning repo for building no-code AI agents, automations, and voice agents using **n8n**.
+This repo documents workflows, notes, and projects completed while working through *n8n — AI Agents, AI Automations & AI Voice Agents.
 
 ---
 
 ## Why this repo exists
 
-PartnerLinQ automates B2B/EDI workflows using AI agents for partner onboarding, transaction monitoring, and exception handling. This repo is my hands-on sandbox for understanding that same class of problem — trigger-based workflows, agentic decision-making, and API/webhook orchestration — using n8n as the practical, fastest path to building that intuition.
+This repo is my hands-on sandbox for understanding that same class of problem — trigger-based workflows, agentic decision-making, and API/webhook orchestration — using n8n as the practical, fastest path to building that intuition.
 
 ---
 
